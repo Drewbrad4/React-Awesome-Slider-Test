@@ -11,7 +11,7 @@ export default class AboutMe extends Component{
                     <img className="headshot" src={Headshot} alt="Drew Bradford Headshot"/>
 
                     <div className="mini-links">
-                        <div className="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="drewbrad4"><a class="LI-simple-link" href='https://www.linkedin.com/in/drewbrad4?trk=profile-badge'>Drew Bradford</a></div>
+                        {/* <div className="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="drewbrad4"><a class="LI-simple-link" href='https://www.linkedin.com/in/drewbrad4?trk=profile-badge'>Drew Bradford</a></div> */}
                         {/* <a href="https://github.com/Drewbrad4" target="_blank" rel="noopener noreferrer"><img className="mini-icon" src={GithubLogo} alt="Github Icon"/><img className="github-icon" src={Github} alt="Github"/></a> */}
                     </div>
                 </div>

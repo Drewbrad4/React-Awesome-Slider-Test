@@ -9,10 +9,10 @@ export default class TitleBox extends Component{
                 <h3 id="descrip">Full Stack Web Developer</h3>
                 <hr />
                 <div className="links">
-                  <a className="link" href="#about">About</a>
+                  {/* <a className="link" href="#about">About</a>
                   <a className="link" href="#projects">Projects</a>
                   <a className="link" href="#skills">Skills</a>
-                  <a className="link" href="#contact">Contact</a>
+                  <a className="link" href="#contact">Contact</a> */}
                 </div>
               </div>
             </div>

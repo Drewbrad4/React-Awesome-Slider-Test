@@ -1,12 +1,13 @@
-.app {
-  /* background: radial-gradient(circle, rgba(53,53,53,1) 0%, rgba(34,33,33,1) 100%); */
-  background-color: #FFFAFA;
-  font-family: 'Raleway', sans-serif;
+.App {
+  /* background: radial-gradient(circle, rgba(53,53,53,1) 0%, rgba(34,33,33,1) 100%); */  font-family: 'Raleway', sans-serif;
   padding-bottom: 1.5rem;
+  height: 100%
 }
 
 body, html {
   height: 100%;
+  background-color:rgba(55,55,55,0.2);
+
 }
 
 /********************************************** NAVBAR CSS */
@@ -17,7 +18,7 @@ body, html {
   font-family: 'Raleway', sans-serif;
   z-index: 9999;
   background-color:rgba(55,55,55,0.2);
-  background-color:rgba(40, 75, 99, 0.4);
+  /* background-color:rgba(40, 75, 99, 0.4); */
 }
 
 .links {
